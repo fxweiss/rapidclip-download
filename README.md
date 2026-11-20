@@ -1,5 +1,9 @@
-# RapidClip for Mac
+# RapidClip
 
-[Download RapidClip.dmg](https://github.com/fxweiss/rapidclip-mac/releases/latest/download/RapidClip.dmg), open it, and drag RapidClip to Applications.
+Keep the gems, lose the fat.
 
-Needs a Mac with Apple silicon and macOS 13 or later. RapidClip updates itself.
+## Download
+
+- **Mac** (Apple silicon, macOS 13 or later): [RapidClip.dmg](https://github.com/fxweiss/rapidclip-download/releases/latest/download/RapidClip.dmg). Open it and drag RapidClip to Applications.
+
+RapidClip updates itself (the Linux .deb excepted: install the new one over it).
